@@ -141,7 +141,7 @@ Before came to MSU, she had completed her BS (2019) in Department of Automation 
 
 # Opensource Projects
 
-![deeprobust](/assets/img/Deeprobust.png =250x)
+![deeprobust](/assets/img/Deeprobust.png){ width=70% }
 DeepRobust: A Platform for Adversarial Attacks and Defenses
 In AAAI 2021
 [Repo](https://github.com/DSE-MSU/DeepRobust)
