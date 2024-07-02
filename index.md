@@ -148,7 +148,7 @@ In AAAI 2021
 
 # Previous Experiences
 
-*   06/24 I'm actively looking for an applied scientist/ Machine Learning engineer role, I would be really glad if you notify me any job opening or give me a referral!^_^
+*   06/24 I'm actively looking for an applied scientist/ machine learning engineer role, I would be really glad if you notify me any job opening or give me a referral!^_^
 
 *   01/24 Find my poster on WACV2024 poster session2 #71
 
