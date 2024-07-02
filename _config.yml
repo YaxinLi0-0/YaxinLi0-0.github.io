@@ -1,6 +1,9 @@
-title: Yaxin Homepage
+title: Yaxin's Homepage
 logo: /assets/img/webpage_main.jpg
-description: Minimal is a theme for GitHub Pages.
+description: Hey! It’s great that you come across here.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+github:
+  zip_url: /README.md
+  another_url: another value
