@@ -139,6 +139,13 @@ Before came to MSU, she had completed her BS (2019) in Department of Automation 
 *   2024.07 One paper about metigate memorization for Diffusion model is accepted by ECCV!
 *   2024.05 One paper about exploring memorization in Language model is accepted by ACL!
 
+# Opensource Projects
+
+![deeprobust](/assets/img/Deeprobust.png)
+DeepRobust: A Platform for Adversarial Attacks and Defenses
+In AAAI 2021
+![Repo](https://github.com/DSE-MSU/DeepRobust)
+
 # Previous Experiences
 
 *   06/24 I'm actively looking for an applied scientist/ Machine Learning engineer role, I would be really glad if you notify me any job opening or give me a referral!^_^
