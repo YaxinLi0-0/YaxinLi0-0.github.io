@@ -11,6 +11,23 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
+    <style>
+      .wrapper {
+        display: flex;
+      }
+      .sidebar {
+        width: 200px;
+        background-color: #f4f4f4;
+        padding: 15px;
+      }
+      .content {
+        flex-grow: 1;
+        padding: 15px;
+      }
+      header, footer {
+        width: 100%;
+      }
+    </style>
   </head>
   <body>
     <div class="wrapper">
