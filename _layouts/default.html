@@ -14,7 +14,6 @@
     <style>
       .wrapper {
         display: flex;
-        flex-direction: column;
       }
       .sidebar {
         width: 200px;
@@ -29,6 +28,14 @@
         width: 100%;
       }
     </style>
+    <aside class="sidebar">
+      <h2>Sidebar</h2>
+      <ul>
+        <li><a href="#">HomePage</a></li>
+        <li><a href="#">Publications</a></li>
+        <li><a href="#">Teaching</a></li>
+      </ul>
+    </aside>
   </head>
   <body>
     <div class="wrapper">
@@ -60,14 +67,6 @@
         {% endif %}
       </header>
       
-      <aside class="sidebar">
-        <h2>Sidebar</h2>
-        <ul>
-          <li><a href="#">HomePage</a></li>
-          <li><a href="#">Publications</a></li>
-          <li><a href="#">Teaching</a></li>
-        </ul>
-      </aside>
 
       <main class="content">
         <section>
