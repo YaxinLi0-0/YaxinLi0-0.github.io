@@ -195,13 +195,14 @@ strong {
 
         .navbar a {
             color: white;
+            background-color: #6b90cf;
             text-decoration: none;
             padding: 10px 15px;
         }
 
         .navbar a:hover {
-            background-color: #4CAF50;
-            color: black;
+            background-color: transparent;
+            color: #6b90cf;
         }
 
         .navbar .logo {
@@ -233,7 +234,7 @@ strong {
             .navbar.responsive .menu {
                 display: flex;
                 flex-direction: column;
-                background-color: green;
+                background-color: transparent;
                 position: absolute;
                 top: 15%;
                 left: 0;
