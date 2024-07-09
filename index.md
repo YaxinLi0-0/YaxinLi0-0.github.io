@@ -134,7 +134,7 @@ My research interests focus on trust-worthy deep learning, especially robustness
 
 Before I joined MSU, I completed my BS (2019) in the Department of Automation at Tsinghua University.
 
-[My CV](https://drive.google.com/file/d/1w9im_D-ET22VdsjLknt8g4LXnX0BQr6R/view?usp=sharing)
+[My CV](https://drive.google.com/file/d/1IdfN_LQDfs3jkJVzV1uh6G-2WKd-L1wi/view?usp=sharing)
 
 # Recent News
 
