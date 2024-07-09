@@ -134,6 +134,8 @@ My research interests focus on trust-worthy deep learning, especially robustness
 
 Before I joined MSU, I completed my BS (2019) in the Department of Automation at Tsinghua University.
 
+[My CV](https://drive.google.com/file/d/16Ky6BV8bX5OX9lzeb0wJz8FiBTgI4mA8/view?usp=sharing)
+
 # Recent News
 
 *   07/24 One paper about metigate memorization for Diffusion model is accepted by ECCV!
