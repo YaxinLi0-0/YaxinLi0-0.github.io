@@ -156,6 +156,8 @@ In AAAI 2021
 
 *   10/23 Our paper accepted by WACV2024: [Neural Style Protection: Counteracting Unauthorized Neural Style Transfer](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SdD-Hh4AAAAJ&citation_for_view=SdD-Hh4AAAAJ:Se3iqnhoufwC)
 
+*   06/23 Start my internship at BAIDU. Working on LLM privacy problem.
+
 *   08/21 Find the website of our KDD tutorial here: https://sites.google.com/view/kdd21-tutorial-adv-robust/"
 
 *   08/21 Our survey [Trustworthy AI: A Computational Perspective](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SdD-Hh4AAAAJ&citation_for_view=SdD-Hh4AAAAJ:zYLM7Y9cAGgC) is released.
