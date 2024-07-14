@@ -128,7 +128,7 @@ The final element.
 
 # About Me
 
-I'm Yaxin Li, a PhD student from the Department of Computer Science and Engineering at Michigan State University. My advisor is Dr. Jiliang Tang, whose research interests focus on Data Mining and Machine Learning.
+I'm Yaxin Li, a PhD student from the Department of Computer Science and Engineering at Michigan State University. My advisor is [Dr. Jiliang Tang](https://www.cse.msu.edu/~tangjili/), whose research interests focus on Machine Learning on Graph and Trustworty AI.
 
 My research interests focus on trust-worthy deep learning, especially robustness and privacy. My goal is to discover potential harm of AI systems and prevent different types of data from being misused by AI.
 
