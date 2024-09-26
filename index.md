@@ -137,7 +137,7 @@ Before I joined MSU, I completed my BS (2019) in the Department of Automation at
 [My CV](https://drive.google.com/file/d/1IdfN_LQDfs3jkJVzV1uh6G-2WKd-L1wi/view?usp=sharing)
 
 # Recent News
-
+*   09/24 Start an internship at Newsbreak.
 *   07/24 One paper about metigate memorization for Diffusion model is accepted by ECCV!
 *   05/24 One paper about exploring memorization in Language model is accepted by ACL!
 
